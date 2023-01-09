@@ -10,7 +10,7 @@
     "express": "^4.17.1",
     "express-subdomain": "^1.0.5",
     "express-vue": "^5.15.0",
-    "firebase-admin": "^8.9.2",
+    "firebase-admin": "^11.4.1",
     "morgan": "^1.9.1",
     "@babel/core": "^7.8.7",
     "babel-jest": "^23.6.0",
